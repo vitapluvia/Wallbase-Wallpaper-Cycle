@@ -12,7 +12,7 @@ Another part of the script is to save all wallpapers found under the current dir
 
 ---
 ## Usage:
-To run, simply run the python file included like so: ```python wallpaper_cycle.py```
+To use, simply run the python file included like so: ```python wallpaper_cycle.py```
 
 ---
 #### @TODO:

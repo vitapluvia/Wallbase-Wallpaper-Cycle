@@ -21,3 +21,4 @@ To run, simply run the python file included like so: ```python wallpaper_cycle.p
 - Faster solution for grabbing images, currently this is being limited by browsing speed.
 - Small bug running Phantom, it complains about semi-colon....
 - Grab from other Wallpaper repositories / Flickr / Google / etc.
+- Cross-Platform Support
